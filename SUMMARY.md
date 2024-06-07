@@ -17,6 +17,4 @@
 * [Polizze](polizze.md)
 * [Titoli](titoli.md)
 * [Post vendita](post-vendita.md)
-* [TL;DR](tl-dr.md)
 * [Appendice A Teoria RCA](appendice-a-teoria-rca.md)
-* [Appendice A Teoria](appendice-a-teoria.md)

@@ -26,7 +26,7 @@ Il primo form, identificato dall'indirizzo [https://lookinglass.ipagency.it/emet
 
 Il sistema si occuperà in automatico di recuperare l'ATR dal database di ANIA oltre che di suggerire il modello del veicolo che dovrà essere inserito tramite l'utilizzo dei menù a tendina sottostanti. E' fondamentale, per l'emissione di coperture CVT, inserire anche il corretto tipo di allestimento del veicolo in modo da computare con esattezza la tariffa. Nel caso in cui l'allestimento non sia presente nel database, è possibile inserire manualmente la quotazione del mezzo nell'apposita casella "Quotazione Ritiro". Nei paragrafi "Le targhe" e "Gli attestati di Rischio" verranno introdotti i dettagli nel caso di necessità di inserire targhe particolari o di dover ricorrere al recupero dell'ATR da un'altra targa o ancora nel caso di applicazione del decreto Bersani.&#x20;
 
-#### Le targhe
+### Le targhe
 
 Il tool di preventivazione accetta targhe in vari formati che dipendono sia dal tipo di veicolo che dall'anno di immatricolazione dello stesso.&#x20;
 
@@ -46,11 +46,11 @@ E' possibile richiamare un pannello informativo direttamente dalla pagina del to
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Tipologie di targhe accettate dal sistema.</p></figcaption></figure>
 
-#### Gli attestati di rischio
+### Gli attestati di rischio
 
 Una volta inserita la targa di cui si vuole eseguire la preventivazione, il sistema recupera dal database nazionale di ANIA il relativo Attestato di Rischio (ATR). La classe di merito li indicata, insieme allo stato del pagellino, verranno utilizzati per il calcolo del premio. &#x20;
 
-#### Le operazioni recupero ATR e Bersani
+### Le operazioni recupero ATR e Bersani
 
 E' possibile eseguire operazioni quali il recupero dell'ATR da un'altra targa nel caso in cui il veicolo precedentemente posseduto sia stato rubato, venduto o demolito. E' inoltre possibile recuperare l'ATR di un familiare o un cointestatario di una precedente assicurazione.&#x20;
 
@@ -58,11 +58,15 @@ E' inoltre possibile applicare i vantaggi del decreto Bersani nel recupero della
 
 Le operazioni di recupero ATR o di applicazione del decreto Bersani sono soggette ad un ulteriore livello di controllo relativo alla regione di residenza del richiedente e del convivente da cui si recupera l'ATR. Nel caso di situazioni ambigue, è necessario contattare gli uffici IPA per l'autorizzazione a procedere con l'emissione del preventivo.&#x20;
 
+### I dati del contratto
+
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Il secondo form della procedura di preventivazione relativo al percorso di vendita</p></figcaption></figure>
 
 Il secondo form del tool di preventivazione permette di inserire la data e l'ora della decorrenza della copertura, nonché la tipologia di frazionamento annuale o semestrale. Inoltre è possibile verificare la catena di vendita in atto in base al codice dell'intermediario/produttore e all'utente indicati (VA INSERITO IL RIASSEGNAMENTO DI UN PREVENTIVO?). E' inoltre possibile inserire qui le informazioni relative ad un vincolo, se presente.&#x20;
 
 Il terzo form del tool permette l'inserimento dei dati anagrafici del cliente. Il codice fiscale viene recuperato dalla compilazione eseguita nel primo form. Oltre ai dati relativi alla data e alla città di nascita (o paese estero), è necessario inserire l'indirizzo di residenza e, se differente, quello di domicilio del cliente.&#x20;
+
+### I dati anagrafici
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,6 +75,8 @@ Il terzo form del tool permette l'inserimento dei dati anagrafici del cliente. I
 Vanno inoltre inseriti, tramite gli appositi menù a tendina, la nazionalità, lo stato civile, il titolo di studio, la professione nonché l'anno di conseguimento della patente e se il contraente è anche il conducente principale del mezzo.&#x20;
 
 L'indirizzo email inserito come dato di contatto verrà utilizzato come destinatario del preventivo una volta che questo verrà finalizzato.&#x20;
+
+### I prodotti e le garanzie
 
 Nel quarto form della procedura è possibile selezionare il prodotto, relativo alla tipologia di veicolo cui la targa inserita per la preventivazione fa riferimento. I prodotti sono di seguito elencati:&#x20;
 
@@ -106,6 +112,8 @@ Ogni prodotto è caratterizzato da una serie di garanzie, la principale è quell
 
 A meno che nel primo form non sia stata selezionata l'opzione "solo CVT", è necessario inserire la garanzia RC per permettere poi l'aggiunta di un contratto di assistenza o delle coperture accessorie quali gli infortuni del conducente, la copertura kasko, il furto e incendio o la copertura per i danni ai cristalli.&#x20;
 
+### I premi e gli sconti
+
 Alcune tipologie di sconto, visualizzabili nel form successivo, sono attivabili solamente se, ad esempio, alla RC Auto è associato anche un contratto di assistenza stradale.&#x20;
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
@@ -113,6 +121,8 @@ Alcune tipologie di sconto, visualizzabili nel form successivo, sono attivabili 
 Gli sconti possono essere applicati separatamente sulle varie garanzie selezionate. Lo sconto massimo applicabile dipende dagli accordi commerciali intrapresi tra IPA e l'intermediario stesso e dipende dalla garanzia selezionata. Ad esempio, alcuni intermediari possono effettuare degli sconti sulle RC Truck ma non sulle RC Auto. Nel caso in cui la spunta presente vicino al valore indicante lo sconto massimo applicabile risulti essere rossa, è possibile cliccarci per vedere quali condizioni non sono state raggiunte e di conseguenza perché lo sconto non è applicabile.&#x20;
 
 Una volta impostato il valore di sconto che si vuole applicare al cliente, è necessario cliccare sul bottone "Ricalcola" per aggiornare il computo delle tasse prima di poter proseguire al form di riepilogo.
+
+### Il riepilogo
 
 Nell'ultimo form della procedura di emissione della polizza vengono inizialmente elencate le informazioni salienti del veicolo che si vuole assicurare e del contraente.&#x20;
 
@@ -140,7 +150,7 @@ Il questionario deve essere compilato integralmente e fatto firmare dal cliente 
 
 Un preventivo emesso (ISSUED) ha una validità legale di 60 giorni. Se il cliente ne richiede l'acquisto superato questo termine, è necessario eseguire una nuova preventivazione.&#x20;
 
-### Anatomia della polizza
+## Anatomia della polizza
 
 Una volta emessa la polizza, è possibile stamparla in formato pdf dalla pagina in cui sono mostrati i dettagli della polizza stessa (azione "Guarda" dall'elenco delle polizze). Il pdf della polizza è composto da quattro pagine: la prima mostra i dati del veicolo assicurato, del contraente/proprietario e le tipologie di garanzie incluse nella polizza;&#x20;
 

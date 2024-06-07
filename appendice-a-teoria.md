@@ -1,2 +1,0 @@
-# Appendice A Teoria
-
