@@ -18,11 +18,11 @@ Una volta all'interno della della preview sarà possibile creare un nuovo ruolo 
 
 <figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-Si verrà indirizzati alla pagina di creazione ruoli dove dovrete inserire i dati richiesti e i permessi d'accesso che per utilizzare la piattaforma Loockinglass.
+Si verrà indirizzati alla pagina di creazione ruoli dove mustrire i dati richiesti e i permessi d'accesso che per piattaforma Loockinglass.
 
 Nella prima parte della pagina si trova i seguenti campi:
 
-* Nome, all'interno di questo campo dobbiamo inserire il nominativo che vogliamo dare al ruolo&#x20;
+* Nome, all'interno di questo campo dobbiamo inserire il nominativo che vogl.iamo dare al ruolo&#x20;
 * Descrizione, va inserita una breve descrizione del ruolo, ricordarsi di essere il più concisi possibili massimo 3 parole&#x20;
 * Permessi Admin, all'interno di questo campo possiamo trovare diverse opzioni da fleggare anche contemporaneamente, ciascuna di esse permette un ruolo e un livello d'accesso, dove Super Admin è il massino livello d'accesso e Back Office è il più basso.
 * Permessi Misc,  anche qui si trova la stessa metodica di selezionamento del campo Permessi Admin, questo campo la il compito di disabilitare o limitare i poteri di accesso all'interno della piattaforma.
