@@ -4,7 +4,7 @@ description: Questo capitolo contiene informazioni utili per l'emissione dei pre
 
 # Polizze RCP (WIP)
 
-## enu RCP
+## Menu RCP
 
 [https://lookinglass.ipagency.it/dashboard](https://lookinglass.ipagency.it/dashboard)
 
