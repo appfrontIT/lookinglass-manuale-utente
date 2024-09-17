@@ -20,7 +20,7 @@ Espandendo il menu "Dallbogg" comparirà la sezione dedicata alle polizze RCP.
 * **RCP Quotazioni** porta alla lista dei preventivi.
 * **RCP Polizze** porta alla lista delle polizze in vigore.
 * **RCP Anagrafiche** mostra la lista dei clienti.
-* **RCP Titoli** elenca i cambi di stato della polizza (sospensione, riattivazione, rinnovo, storno...)
+* **RCP Titoli** elenca i cambi di stato della polizza (sospensione, riattivazione, rinnovo, storno, cancellazione...).
 
 ## 1. Preventivi
 
@@ -97,9 +97,9 @@ Altrimenti comparirà il tasto "genera proposta contratto" per concludere la pro
 
 
 
-### Autorizzazione e emissione
+### 1.7 Autorizzazione ed emissione preventivo
 
-All'amministratore basterà premere sul link al preventivo ricevuto via mail con oggetto "Dallbogg RCP Authorization Request for quotation numero-preventivo".
+All'amministratore basterà premere sul link alla bozza del preventivo ricevuto via mail con oggetto "Dallbogg RCP Authorization Request for quotation numero-preventivo".
 
 <figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
@@ -110,4 +110,21 @@ A questo punto viene inviata immediatamente:
 * Una mail di conferma approvazione del preventivo all'assicuratore e all'amministratore.
 * Una mail di conferma di emissione preventivo all'assicuratore e al cliente da assicurare.
 
-A questo punto sia l'amministratore, sia l'assicuratore possono procedere con l'emissione della polizza.
+A questo punto **sia l'amministratore, sia l'assicuratore** possono stampare la proposta di contratto e eventualmente procedere con l'emissione della polizza.\
+\
+Un preventivo emesso (ISSUED) ha una validità legale di 60 giorni. Se il cliente ne richiede l'acquisto superato questo termine, è necessario eseguire una nuova preventivazione.
+
+### 1.8 Emissione polizza
+
+Nel caso in cui il cliente sia interessato all'acquisto del preventivo emesso è possibile, dal form di riepilogo, selezionare il pulsante "EMETTI POLIZZA" e incassare il premio.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Adesso nella pagina di riepilogo si trovano alcuni nuovi pulsanti:
+
+![](<.gitbook/assets/image (1).png>)
+
+* **Stampa** è un menù a tendina per scaricare il PDF della proposta di contratto o della polizza.
+* **Go to Polizza** apre in una nuova scheda i dettagli della polizza.
+* **Go to Titolo** apre in una nuova scheda la lista dei cambiamenti di stato della polizza (sospensione, riattivazione, rinnovo, storno, cancellazione...).
+
