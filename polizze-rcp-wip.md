@@ -120,11 +120,26 @@ Nel caso in cui il cliente sia interessato all'acquisto del preventivo emesso è
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Adesso nella pagina di riepilogo si trovano alcuni nuovi pulsanti:
+Adesso nella pagina di riepilogo del preventivo si trovano alcuni nuovi pulsanti:
 
 ![](<.gitbook/assets/image (1).png>)
 
 * **Stampa** è un menù a tendina per scaricare il PDF della proposta di contratto o della polizza.
 * **Go to Polizza** apre in una nuova scheda i dettagli della polizza.
 * **Go to Titolo** apre in una nuova scheda la lista dei cambiamenti di stato della polizza (sospensione, riattivazione, rinnovo, storno, cancellazione...).
+
+## Indicazioni generali
+
+Pulsante a forma di occhio "Visualizza" ![](<.gitbook/assets/Screenshot (255).png>)
+
+Dal menù "RCP Quotazioni" porta alla schermata di riepilogo del preventivo.
+
+* Se in stato "ISSUED" si può raggiungere il tasto di emissione polizza.
+* Se in stato "POLICY" si possono raggiungere i tasti descritti poco fa.
+
+Dal menù "RCP Polizze" porta ai dettagli generali della polizza.
+
+Dal menù "RCP Titoli" porta al dettaglio della specifica operazione di cambio di stato della polizza.
+
+
 
