@@ -17,5 +17,6 @@
 * [Polizze](polizze.md)
 * [Titoli](titoli.md)
 * [Post vendita](post-vendita.md)
-* [Appendice A Teoria RCA](appendice-a-teoria-rca.md)
 * [Polizze RCP (WIP)](polizze-rcp-wip.md)
+* [Appendice A Teoria RCA](appendice-a-teoria-rca.md)
+* [Appendice B Elenco funzionalità](appendice-b-elenco-funzionalita.md)
