@@ -26,7 +26,7 @@ Espandendo il menu "Dallbogg" comparirà la sezione dedicata alle polizze RCP.
 
 L'elaborazione del preventivo da parte dell'utente avviene tramite l'inserimento delle informazioni necessarie al calcolo della tariffa. La procedura è suddivisa in cinque passi più un sesto di riepilogo.&#x20;
 
-Il preventivo può essere elaborato anche in più sessioni, una volta iniziato sarà possibile richiamarlo dalla lista delle "RCP Quotazioni" presente in Dashboard. I preventivi non finalizzati avranno nello stato l'etichetta DRAFT. E' bene sottolinare che un preventivo etichettato come DRAFT non è ancora emesso e, di conseguenza, non ha valore nei confronti del cliente.&#x20;
+Il preventivo può essere elaborato anche in più sessioni, una volta iniziato sarà possibile richiamarlo dalla lista delle "RCP Quotazioni" presente in Dashboard. I preventivi non finalizzati avranno nello stato l'etichetta DRAFT. E' bene sottolineare che un preventivo etichettato come DRAFT non è ancora emesso e, di conseguenza, non ha valore nei confronti del cliente.&#x20;
 
 A seguito del controllo dei valori immessi nella schermata di riepilogo, è possibile emettere e stampare il preventivo. Lo stato del preventivo verrà aggiornato su ISSUED (Emesso). Tale preventivo ha ora valore vincolante nei confronti del cliente.&#x20;
 
@@ -89,7 +89,7 @@ Nell'ultimo pannello viene fornito un riepilogo di tutte le dichiarazioni fatte 
 
 Per proseguire, sarà necessario premere il pulsante rosso "aggiungi documenti", che reindirizza alla pagina in cui è possibile caricare il documento d'identità, la visura, il questionario e eventuali altri file.
 
-Se il fatturato dell'anno precedente supera una soglia prestabilita (€50k) verrà visualizzato il tasto "richiedi autorizzazione", che invierà una mail di richiesta all'amministratore e all'assicuratore con link diretto alla polizza.
+Se il fatturato dell'anno precedente supera una soglia prestabilita (€50k) verrà visualizzato il tasto "richiedi autorizzazione", che invierà una mail di richiesta all'amministratore e all'assicuratore con link diretto alla bozza del preventivo.
 
 <figure><img src=".gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
@@ -99,11 +99,11 @@ Altrimenti comparirà il tasto "genera proposta contratto" per concludere la pro
 
 ### Autorizzazione e emissione
 
-All'amministratore basterà premere sul link alla polizza ricevuto via mail con oggetto "Dallbogg RCP Authorization Request for quotation numero-preventivo".
+All'amministratore basterà premere sul link al preventivo ricevuto via mail con oggetto "Dallbogg RCP Authorization Request for quotation numero-preventivo".
 
 <figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-e cliccare "autorizza" sulla polizza nel portale Lookinglass.
+e cliccare "autorizza" sul preventivo nel portale Lookinglass.
 
 A questo punto viene inviata immediatamente:
 
