@@ -41,7 +41,7 @@ Il preventivo è composto da 6 pannelli:
 
 ### 1.1 Professione
 
-In questo pannello vengono indicate le informazioni relative alla professione svolta dal cliente e il massimale desiderato.
+In questo pannello vengono indicate le informazioni relative alla professione svolta dal cliente e il massimale desiderato. Inoltre in questa pagina si può scaricare il questionario da far compilare al cliente premendo l'apposito pulsante "stampa questionario".
 
 Durante la compilazione della sezione "Attività", verranno automaticamente aggiunte le garanzie in base gli importi indicati per ciascuna voce.
 
@@ -51,25 +51,63 @@ Subito sotto si trovano alcune domande sul passato del cliente:
 
 <figure><img src=".gitbook/assets/image (64).png" alt=""><figcaption><p>info professione</p></figcaption></figure>
 
-Se il fatturato dell'anno precedente supera una soglia prestabilita e/o l'assicuratore risponde "Sì" a una di queste domande (ad eccezione della prima), verrà generato un avviso al momento dell'emissione del preventivo, richiedendo l'approvazione da parte di un utente amministrativo.
+Se l'assicuratore risponde "Sì" a una di queste domande (ad eccezione della prima), verrà generato un avviso al momento della generazione del preventivo, richiedendo l'approvazione da parte di un utente amministrativo.
+
+<figure><img src=".gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.2. Dati contratto
 
-Il secondo pannello del tool di preventivazione permette di inserire la data e l'ora di decorrenza della copertura, nonché la tipologia di frazionamento annuale o semestrale. Inoltre è possibile verificare la catena di vendita in atto in base al codice dell'intermediario/produttore e all'utente indicato.
+Il secondo pannello dello strumento di preventivazione permette di inserire la data e l'ora di decorrenza della copertura, nonché la tipologia di frazionamento annuale o semestrale. Inoltre è possibile verificare la catena di vendita in atto in base al codice dell'intermediario/produttore e all'utente indicato.
 
 Inoltre, è presente un riquadro "Deroga/Precisazione" dove è possibile inserire eventuali commenti condivisi con gli intermediari.
 
 
 
-## 1.3 Dati anagrafici
+### 1.3 Dati anagrafici
 
 In questa sezione basterà inserire il codice fiscale per compilare automaticamente le generalità del contraente, mentre è necessario inserire manualmente i dati restanti.
 
 In particolare l'indirizzo email inserito come dato di contatto verrà utilizzato come destinatario del preventivo una volta che questo verrà finalizzato.&#x20;
 
-### 1.3 Garanzie
+### 1.4 Garanzie
 
-Espandendo la garanzia di interesse, si nota che sono state selezionate automaticamente alcune voci in base a quanto indicato nel primo pannello.&#x20;
+Nel quarto pannello è possibile selezionare il prodotto RCP Tecnici, che include diverse garanzie, alcune delle quali vengono selezionate automaticamente in base alle informazioni fornite nel primo pannello.
 
-Da questa schermata, è possibile aggiungere o rimuovere garanzie supplementari e impostare l'importo della franchigia.
+<figure><img src=".gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
+Da questa schermata, è possibile aggiungere o rimuovere le garanzie supplementari tramite i menù a tendina e impostare l'importo della franchigia.
+
+### 1.5 Il premio e gli sconti
+
+Una volta impostato il valore di sconto che si vuole applicare al cliente, è necessario cliccare sul bottone "Ricalcola" per aggiornare il computo delle tasse prima di poter proseguire al form di riepilogo.
+
+QUESTIONE SCONTO NEGATIVO / PREMIO NETTO MANUALE DA DOCUMENTARE DOPO IL TESTING issue 4799
+
+### 1.6 Riepilogo
+
+Nell'ultimo pannello viene fornito un riepilogo di tutte le dichiarazioni fatte nei pannelli precedenti. In particolare, le garanzie supplementari saranno evidenziate in grassetto.
+
+Per proseguire, sarà necessario premere il pulsante rosso "aggiungi documenti", che reindirizza alla pagina in cui è possibile caricare il documento d'identità, la visura, il questionario e eventuali altri file.
+
+Se il fatturato dell'anno precedente supera una soglia prestabilita (€50k) verrà visualizzato il tasto "richiedi autorizzazione", che invierà una mail di richiesta all'amministratore e all'assicuratore con link diretto alla polizza.
+
+<figure><img src=".gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+
+Altrimenti comparirà il tasto "genera proposta contratto" per concludere la proposta in autonomia.
+
+
+
+### Autorizzazione e emissione
+
+All'amministratore basterà premere sul link alla polizza ricevuto via mail con oggetto "Dallbogg RCP Authorization Request for quotation numero-preventivo".
+
+<figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+
+e cliccare "autorizza" sulla polizza nel portale Lookinglass.
+
+A questo punto viene inviata immediatamente:
+
+* Una mail di conferma approvazione del preventivo all'assicuratore e all'amministratore.
+* Una mail di conferma di emissione preventivo all'assicuratore e al cliente da assicurare.
+
+A questo punto sia l'amministratore, sia l'assicuratore possono procedere con l'emissione della polizza.
