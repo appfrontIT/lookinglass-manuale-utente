@@ -112,7 +112,7 @@ A questo punto viene inviata immediatamente:
 
 A questo punto **sia l'amministratore, sia l'assicuratore** possono stampare la proposta di contratto e eventualmente procedere con l'emissione della polizza.\
 \
-Un preventivo emesso (ISSUED) ha una validità legale di 60 giorni. Se il cliente ne richiede l'acquisto superato questo termine, è necessario eseguire una nuova preventivazione.
+Un preventivo emesso (ISSUED) ha una validità legale di 30 giorni. Se il cliente ne richiede l'acquisto superato questo termine, è necessario eseguire una nuova preventivazione.
 
 ### 1.8 Emissione polizza
 
@@ -122,7 +122,7 @@ Nel caso in cui il cliente sia interessato all'acquisto del preventivo emesso è
 
 Adesso nella pagina di riepilogo del preventivo si trovano alcuni nuovi pulsanti:
 
-![](<.gitbook/assets/image (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (1).png>)
 
 * **Stampa** è un menù a tendina per scaricare il PDF della proposta di contratto o della polizza.
 * **Go to Polizza** apre in una nuova scheda i dettagli della polizza.
@@ -143,3 +143,10 @@ Dal menù "RCP Titoli" porta al dettaglio della specifica operazione di cambio d
 
 
 
+## Note per l'amministratore del sistema
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+L'utente definito come "amministratore" in questa guida, ovvero colui che può autorizzare i preventivi, corrisponde all'utente con il permesso selezionato "RCP Quotazioni -> Autorizza".
+
+Invece, nel menù **Admin/Variabili di Sistema**, troviamo la variabile `dllbg_rcp_quotation_authorize_group`, che contiene la lista degli ID utente a cui verrà inviata l'email di richiesta di autorizzazione per la bozza di preventivo (anche quelli senza effettivo permesso di autorizzazione).

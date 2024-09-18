@@ -44,7 +44,7 @@ Le targhe dei veicoli classificati come macchine operatrici trainate devono esse
 
 E' possibile richiamare un pannello informativo direttamente dalla pagina del tool di preventivazione cliccando sul punto interrogativo presente vicino alla scritta in rosso "Targa polizza" presente sulla parte alta della scheda.&#x20;
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Tipologie di targhe accettate dal sistema.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Tipologie di targhe accettate dal sistema.</p></figcaption></figure>
 
 ### Gli attestati di rischio
 
@@ -60,7 +60,7 @@ Le operazioni di recupero ATR o di applicazione del decreto Bersani sono soggett
 
 ### I dati del contratto
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Il secondo form della procedura di preventivazione relativo al percorso di vendita</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Il secondo form della procedura di preventivazione relativo al percorso di vendita</p></figcaption></figure>
 
 Il secondo form del tool di preventivazione permette di inserire la data e l'ora della decorrenza della copertura, nonché la tipologia di frazionamento annuale o semestrale. Inoltre è possibile verificare la catena di vendita in atto in base al codice dell'intermediario/produttore e all'utente indicati (VA INSERITO IL RIASSEGNAMENTO DI UN PREVENTIVO?). E' inoltre possibile inserire qui le informazioni relative ad un vincolo, se presente.&#x20;
 
@@ -68,7 +68,7 @@ Il terzo form del tool permette l'inserimento dei dati anagrafici del cliente. I
 
 ### I dati anagrafici
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
