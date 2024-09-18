@@ -99,11 +99,11 @@ Altrimenti comparirà il tasto "genera proposta contratto" per concludere la pro
 
 ### 1.7 Autorizzazione ed emissione preventivo
 
-All'amministratore basterà premere sul link alla bozza del preventivo ricevuto via mail con oggetto "Dallbogg RCP Authorization Request for quotation numero-preventivo".
+All'amministratore basterà premere sul link alla bozza del preventivo ricevuto via email con oggetto "Dallbogg RCP Authorization Request for quotation numero-preventivo".
 
 <figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-e cliccare "autorizza" sul preventivo nel portale Lookinglass.
+e cliccare "autorizza" sulla bozza di preventivo nel portale Lookinglass.
 
 A questo punto viene inviata immediatamente:
 
