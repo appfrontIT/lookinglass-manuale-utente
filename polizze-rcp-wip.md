@@ -118,11 +118,11 @@ Un preventivo emesso (ISSUED) ha una validità legale di 60 giorni. Se il client
 
 Nel caso in cui il cliente sia interessato all'acquisto del preventivo emesso è possibile, dal form di riepilogo, selezionare il pulsante "EMETTI POLIZZA" e incassare il premio.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Adesso nella pagina di riepilogo del preventivo si trovano alcuni nuovi pulsanti:
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 * **Stampa** è un menù a tendina per scaricare il PDF della proposta di contratto o della polizza.
 * **Go to Polizza** apre in una nuova scheda i dettagli della polizza.

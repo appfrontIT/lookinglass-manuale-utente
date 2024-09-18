@@ -44,7 +44,7 @@ Le targhe dei veicoli classificati come macchine operatrici trainate devono esse
 
 E' possibile richiamare un pannello informativo direttamente dalla pagina del tool di preventivazione cliccando sul punto interrogativo presente vicino alla scritta in rosso "Targa polizza" presente sulla parte alta della scheda.&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Tipologie di targhe accettate dal sistema.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Tipologie di targhe accettate dal sistema.</p></figcaption></figure>
 
 ### Gli attestati di rischio
 
@@ -60,7 +60,7 @@ Le operazioni di recupero ATR o di applicazione del decreto Bersani sono soggett
 
 ### I dati del contratto
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Il secondo form della procedura di preventivazione relativo al percorso di vendita</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Il secondo form della procedura di preventivazione relativo al percorso di vendita</p></figcaption></figure>
 
 Il secondo form del tool di preventivazione permette di inserire la data e l'ora della decorrenza della copertura, nonché la tipologia di frazionamento annuale o semestrale. Inoltre è possibile verificare la catena di vendita in atto in base al codice dell'intermediario/produttore e all'utente indicati (VA INSERITO IL RIASSEGNAMENTO DI UN PREVENTIVO?). E' inoltre possibile inserire qui le informazioni relative ad un vincolo, se presente.&#x20;
 
@@ -68,9 +68,9 @@ Il terzo form del tool permette l'inserimento dei dati anagrafici del cliente. I
 
 ### I dati anagrafici
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vanno inoltre inseriti, tramite gli appositi menù a tendina, la nazionalità, lo stato civile, il titolo di studio, la professione nonché l'anno di conseguimento della patente e se il contraente è anche il conducente principale del mezzo.&#x20;
 
@@ -106,7 +106,7 @@ Nel caso di RC Truck, sono presenti sul sistema dei prodotti differenziati in fu
 
 oltre 440q
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ogni prodotto è caratterizzato da una serie di garanzie, la principale è quella inerente la copertura per la Responsabilità Civile (RC). A seconda della tipologia di veicolo è necessario inserire alcuni informazioni quali il massimale, la tipologia di guida (libera, esperta), se il veicolo è ad uso privato o meno ed altro. Nello stesso panello verranno ricapitolate alcune informazioni che concorrono al computo del premio assicurativo.&#x20;
 
@@ -116,7 +116,7 @@ A meno che nel primo form non sia stata selezionata l'opzione "solo CVT", è nec
 
 Alcune tipologie di sconto, visualizzabili nel form successivo, sono attivabili solamente se, ad esempio, alla RC Auto è associato anche un contratto di assistenza stradale.&#x20;
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Gli sconti possono essere applicati separatamente sulle varie garanzie selezionate. Lo sconto massimo applicabile dipende dagli accordi commerciali intrapresi tra IPA e l'intermediario stesso e dipende dalla garanzia selezionata. Ad esempio, alcuni intermediari possono effettuare degli sconti sulle RC Truck ma non sulle RC Auto. Nel caso in cui la spunta presente vicino al valore indicante lo sconto massimo applicabile risulti essere rossa, è possibile cliccarci per vedere quali condizioni non sono state raggiunte e di conseguenza perché lo sconto non è applicabile.&#x20;
 
@@ -126,11 +126,11 @@ Una volta impostato il valore di sconto che si vuole applicare al cliente, è ne
 
 Nell'ultimo form della procedura di emissione della polizza vengono inizialmente elencate le informazioni salienti del veicolo che si vuole assicurare e del contraente.&#x20;
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Infine vengono riepilogate le informazioni economiche relative al preventivo appena compilato&#x20;
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Prima di poter procedere all'emissione del preventivo è necessario aggiungere il documento di identità del contraente e il libretto di circolazione del mezzo che si vuole assicurare. Come già sottolineato, un preventivo non emesso formalmente non ha valore legale nei confronti del cliente.
 
@@ -140,7 +140,7 @@ Prima di poter procedere all'emissione del preventivo è necessario aggiungere i
 
 Tramite il menù presente in Dashboard è possibile visionare l'elenco dei preventivi lavorati. Aprendo uno con lo stato "ISSUED" è possibile navigare tra i vari form liberamente.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nel caso in cui il cliente sia interessato all'acquisto del preventivo emesso è possibile, dal form di riepilogo, selezionare il bottone "EMETTI POLIZZA".
 
@@ -154,19 +154,19 @@ Un preventivo emesso (ISSUED) ha una validità legale di 60 giorni. Se il client
 
 Una volta emessa la polizza, è possibile stamparla in formato pdf dalla pagina in cui sono mostrati i dettagli della polizza stessa (azione "Guarda" dall'elenco delle polizze). Il pdf della polizza è composto da quattro pagine: la prima mostra i dati del veicolo assicurato, del contraente/proprietario e le tipologie di garanzie incluse nella polizza;&#x20;
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 la seconda riepiloga le dichiarazioni del contraente;&#x20;
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 la terza riepiloga le modalità di pagamento;&#x20;
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 la quarta contiene l'elenco dei titoli di pagamento relativi alla polizza in oggetto.&#x20;
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### I dati più importanti
 
@@ -179,7 +179,7 @@ Nella parte alta della prima pagina della polizza sono presenti alcuni dei dati 
 * il nominativo del contraente e del proprietario
 * il codice IUR&#x20;
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 La parte centrale della polizza contiene informazioni essenziali per il cliente quali le garanzie presenti nella polizza, i massimali coperti dalla garanzia RC ed il numero di riferimento nel caso di necessità di assistenza stradale.
 
