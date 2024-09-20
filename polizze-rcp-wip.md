@@ -147,6 +147,9 @@ Dal menù "RCP Titoli" porta al dettaglio della specifica operazione di cambio d
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-L'utente definito come "amministratore" in questa guida, ovvero colui che può autorizzare i preventivi, corrisponde all'utente con il permesso selezionato "RCP Quotazioni -> Autorizza".
+L'utente definito come "amministratore" in questa guida:
+
+* può autorizzare i preventivi con fatturato superiore a 50k con il permesso "RCP Quotazioni -> Autorizza".
+* può autorizzare i preventivi con "Sì" alle domande bloccanti con il permesso "RCP Quotazioni -> Autorizzazione su sinistri".
 
 Invece, nel menù **Admin/Variabili di Sistema**, troviamo la variabile `dllbg_rcp_quotation_authorize_group`, che contiene la lista degli ID utente a cui verrà inviata l'email di richiesta di autorizzazione per la bozza di preventivo (anche quelli senza effettivo permesso di autorizzazione).
