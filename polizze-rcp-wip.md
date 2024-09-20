@@ -132,14 +132,14 @@ Adesso nella pagina di riepilogo del preventivo si trovano alcuni nuovi pulsanti
 
 Pulsante a forma di occhio "Visualizza" ![](<.gitbook/assets/Screenshot (255).png>)
 
-Dal menù "RCP Quotazioni" porta alla schermata di riepilogo del preventivo.
+Dal menù RCP **Quotazioni** porta alla schermata di riepilogo del preventivo.
 
 * Se in stato "PROPOSAL" si può raggiungere il tasto di emissione polizza.
 * Se in stato "POLICY" si possono raggiungere i tasti descritti poco fa.
 
-Dal menù "RCP Polizze" porta ai dettagli generali della polizza.
+Dal menù **RCP Polizze** si accede ai dettagli della polizza. Da questa pagina è inoltre possibile caricare il simplo firmato, che successivamente può essere visualizzato nella sezione dedicata.
 
-Dal menù "RCP Titoli" porta al dettaglio della specifica operazione di cambio di stato della polizza.
+Dal menù **RCP Titoli** porta al dettaglio della specifica operazione di cambio di stato della polizza.
 
 
 
