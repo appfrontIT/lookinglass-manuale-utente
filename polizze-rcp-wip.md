@@ -81,7 +81,7 @@ Da questa schermata, è possibile aggiungere o rimuovere le garanzie supplementa
 
 Una volta impostato il valore di sconto che si vuole applicare al cliente, è necessario cliccare sul bottone "Ricalcola" per aggiornare il computo delle tasse prima di poter proseguire al form di riepilogo.
 
-QUESTIONE SCONTO NEGATIVO / PREMIO NETTO MANUALE DA DOCUMENTARE DOPO IL TESTING issue 4799
+È possibile indicare la percentuale di sconto oppure inserire direttamente il premio netto scontato, entro i limiti prestabiliti.
 
 ### 1.6 Riepilogo
 
