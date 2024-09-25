@@ -122,7 +122,7 @@ Nel caso in cui il cliente sia interessato all'acquisto del preventivo emesso è
 
 Adesso nella pagina di riepilogo del preventivo si trovano alcuni nuovi pulsanti:
 
-![](<.gitbook/assets/image (1) (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (1) (1).png>)
 
 * **Stampa** è un menù a tendina per scaricare il PDF della proposta di contratto o della polizza.
 * **Go to Polizza** apre in una nuova scheda i dettagli della polizza.
@@ -143,9 +143,38 @@ Dal menù **RCP Titoli** porta al dettaglio della specifica operazione di cambio
 
 
 
+## 2. Operazioni WIP
+
+cancellazione:
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>filtri RCP Titoli</p></figcaption></figure>
+
+Per modificare lo stato di una polizza a "Cancellata", nella sezione RCP Titoli è possibile utilizzare diversi filtri, come il numero di polizza o il nome del contraente, per facilitare la ricerca della polizza da annullare.
+
+Dopo aver trovato la polizza, premere il link della polizza e il pulsante rosso cancella.
+
+condizioni
+
+* deve essere presente nel foglio cassa
+* deve essere almeno un giorno dopo la data di decorrenza
+* non deve essere scaduta
+
+
+
+incassare una cancellazione:
+
+Per modificare lo stato di una polizza a "Cancellata", nella sezione RCP Titoli è possibile utilizzare diversi filtri, come il numero di polizza o il nome del contraente, per facilitare la ricerca della polizza da annullare.
+
+Dopo aver trovato la polizza, premere il tasto "Aggiorna" <img src=".gitbook/assets/image (1).png" alt="" data-size="original">\
+in modo da aprire la schermata di gestione del titolo. a fondo della pagina si trova un pulsante rosso "Stato dell'aggiornamento" da cui sarà possibile
+
+
+
+
+
 ## Note per l'amministratore del sistema
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 L'utente definito come "amministratore" in questa guida:
 
