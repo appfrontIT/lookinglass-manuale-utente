@@ -143,34 +143,29 @@ Dal menù **RCP Titoli** porta al dettaglio della specifica operazione di cambio
 
 
 
-## 2. Operazioni WIP
+## Operazioni
 
-cancellazione:
+### Cancellare polizza
+
+Come modificare lo stato di una polizza a "Cancellata"?&#x20;
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>filtri RCP Titoli</p></figcaption></figure>
 
-Per modificare lo stato di una polizza a "Cancellata", nella sezione RCP Titoli è possibile utilizzare diversi filtri, come il numero di polizza o il nome del contraente, per facilitare la ricerca della polizza da annullare.
+Per modificare lo stato di una polizza a "Cancellata", segui questi passaggi:
 
-Dopo aver trovato la polizza, premere il link della polizza e il pulsante rosso cancella.
+1. **Ricerca della polizza:** Vai alla sezione **RCP Titoli** e utilizza i filtri disponibili, come il numero di polizza o il nome del contraente, per trovare facilmente la polizza da disdire.
+2. **Cancellazione della polizza:** Una volta trovata, clicca sul link rappresentato dal numero della polizza per accedere ai dettagli, quindi premi il pulsante rosso **Cancella** in fondo alla pagina per inserire i documenti richiesti e completare l'operazione.
 
-condizioni
+Incassare la cancellazione:
 
-* deve essere presente nel foglio cassa
-* deve essere almeno un giorno dopo la data di decorrenza
-* non deve essere scaduta
-
-
-
-incassare una cancellazione:
-
-Per modificare lo stato di una polizza a "Cancellata", nella sezione RCP Titoli è possibile utilizzare diversi filtri, come il numero di polizza o il nome del contraente, per facilitare la ricerca della polizza da annullare.
-
-Dopo aver trovato la polizza, premere il tasto "Aggiorna" <img src=".gitbook/assets/image (1).png" alt="" data-size="original">\
-in modo da aprire la schermata di gestione del titolo. a fondo della pagina si trova un pulsante rosso "Stato dell'aggiornamento" da cui sarà possibile
+Per rendere effettiva l'operazione di cancellazione, è necessario incassare il titolo. \
+\
+Scorrendo verso il fondo della pagina dei dettagli della polizza, troverai il pulsante Stato dell'aggiornamento, che ti porterà alla schermata per incassare il titolo.
 
 
 
-
+In alternativa, si può accedere a questo pulsante anche dalla sezione **RCP Titoli** premendo il\
+pulsante **Aggiorna** <img src=".gitbook/assets/image (1).png" alt="" data-size="original"> in corrispondenza della riga dedicata al titolo di cancellazione.
 
 ## Note per l'amministratore del sistema
 
