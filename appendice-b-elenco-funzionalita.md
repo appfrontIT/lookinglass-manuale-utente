@@ -70,3 +70,11 @@ description: List of features and subfeatures for LLM
   * Prodotti vendibili
 * Signature Sessions
 * Esci
+
+
+
+| Main feature | Feature | Secondary feature |
+| ------------ | ------- | ----------------- |
+|              |         |                   |
+|              |         |                   |
+|              |         |                   |
