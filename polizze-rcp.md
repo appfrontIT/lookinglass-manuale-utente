@@ -89,7 +89,7 @@ Nell'ultimo pannello viene fornito un riepilogo di tutte le dichiarazioni fatte 
 
 Per proseguire, sarà necessario premere il pulsante rosso "aggiungi documenti", che reindirizza alla pagina in cui è possibile caricare il documento d'identità, la visura, il questionario e eventuali altri file.
 
-Se il fatturato dell'anno precedente supera una soglia prestabilita (€50k) verrà visualizzato il tasto "richiedi autorizzazione", che invierà una mail di richiesta all'amministratore e all'assicuratore con link diretto alla bozza del preventivo.
+Se il fatturato dell'anno precedente supera una soglia prestabilita (€50k) verrà visualizzato il tasto "richiedi autorizzazione", che invierà una mail di richiesta all'amministratore e all'assicuratore con link diretto alla bozza del preventivo in stato "PENDING".
 
 <figure><img src=".gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
@@ -135,9 +135,9 @@ Pulsante a forma di occhio "Visualizza" ![](<.gitbook/assets/Screenshot (255).pn
 Dal menù RCP **Quotazioni** porta alla schermata di riepilogo del preventivo.
 
 * Se in stato "PROPOSAL" si può raggiungere il tasto di emissione polizza.
-* Se in stato "POLICY" si possono raggiungere i tasti descritti poco fa.
+* Se in stato "POLICY" si possono raggiungere i tasti descritti nel paragrafo precedente.
 
-Dal menù **RCP Polizze** si accede ai dettagli della polizza. Da questa pagina è inoltre possibile caricare il simplo firmato, che successivamente può essere visualizzato nella sezione dedicata.
+Dal menù **RCP Polizze** si accede ai dettagli della polizza. Da questa pagina è inoltre possibile caricare il simplo firmato.
 
 Dal menù **RCP Titoli** porta al dettaglio della specifica operazione di cambio di stato della polizza.
 
@@ -147,11 +147,9 @@ Dal menù **RCP Titoli** porta al dettaglio della specifica operazione di cambio
 
 ### Cancellare polizza
 
-Come modificare lo stato di una polizza a "Cancellata"?&#x20;
-
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>filtri RCP Titoli</p></figcaption></figure>
 
-Per modificare lo stato di una polizza a "Cancellata", segui questi passaggi:
+Per cancellare una polizza, segui questi passaggi:
 
 1. **Ricerca della polizza:** Vai alla sezione **RCP Titoli** e utilizza i filtri disponibili, come il numero di polizza o il nome del contraente, per trovare facilmente la polizza da disdire.
 2. **Cancellazione della polizza:** Una volta trovata, clicca sul link rappresentato dal numero della polizza per accedere ai dettagli, quindi premi il pulsante rosso **Cancella** in fondo alla pagina per inserire i documenti richiesti e completare l'operazione.
@@ -162,10 +160,27 @@ Per rendere effettiva l'operazione di cancellazione, è necessario incassare il 
 \
 Scorrendo verso il fondo della pagina dei dettagli della polizza, troverai il pulsante Stato dell'aggiornamento, che ti porterà alla schermata per incassare il titolo.
 
-
-
 In alternativa, si può accedere a questo pulsante anche dalla sezione **RCP Titoli** premendo il\
 pulsante **Aggiorna** <img src=".gitbook/assets/image (1).png" alt="" data-size="original"> in corrispondenza della riga dedicata al titolo di cancellazione.
+
+### Sostituire polizza
+
+Per sostituire una polizza, segui questi passaggi:
+
+1. **Ricerca della polizza:** Vai alla sezione **RCP Titoli** e utilizza i filtri disponibili, come il numero di polizza o il nome del contraente, per trovare facilmente la polizza da disdire.
+2. **Sostituzione della polizza:** Una volta trovata, clicca sul link rappresentato dal numero della polizza per accedere ai dettagli, quindi premi il pulsante rosso **Sostituisci** in fondo alla pagina.
+
+Nota: non è possibile modificare una garanzia da "OPERANTE" a "NON OPERANTE".
+
+Dopo aver emesso il nuovo preventivo, comparirà il tasto "SOSTITUISCI" nella schermata di riepologo.
+
+Cliccando su questo pulsante, verrà generato un nuovo titolo, e al numero di polizza verrà aggiunto un suffisso nel formato _numeropolizza.numerosostituzione_.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Note per l'amministratore del sistema
 
@@ -176,4 +191,4 @@ L'utente definito come "amministratore" in questa guida:
 * può autorizzare i preventivi con fatturato superiore a 50k con il permesso "RCP Quotazioni -> Autorizza".
 * può autorizzare i preventivi con "Sì" alle domande bloccanti con il permesso "RCP Quotazioni -> Autorizzazione su sinistri".
 
-Invece, nel menù **Admin/Variabili di Sistema**, troviamo la variabile `dllbg_rcp_quotation_authorize_group`, che contiene la lista degli ID utente a cui verrà inviata l'email di richiesta di autorizzazione per la bozza di preventivo (anche quelli senza effettivo permesso di autorizzazione).
+Invece, nel menù **Admin/Variabili di Sistema**, troviamo la variabile `dllbg_rcp_quotation_authorize_group`, che contiene la lista degli ID utente a cui verrà inviata l'email di richiesta di autorizzazione per la bozza di preventivo (anche se senza effettivo permesso di autorizzazione).
