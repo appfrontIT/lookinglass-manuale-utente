@@ -73,32 +73,7 @@ description: List of features and subfeatures for LLM
 
 
 
-| Main feature | Feature      | Secondary feature    |                                                                                                                                                                                                                                                    |
-| ------------ | ------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Content      | Articoli     | Aggiungi articolo    | Titolo, Data di pubblicazione, Published, Utente, Mostra ad Intermediari, Compagnia assicurativa, Show to users, Show to user roles, Show to all, Corpo, Tags, Allegati, Invia una email di notifica agli utenti dopo il salvataggio               |
-| Content      | Articoli     | Guarda               |                                                                                                                                                                                                                                                    |
-| Content      | Articoli     | Aggiorna             | Titolo, Data di pubblicazione, Utente, Mostra ad Intermediari, Compagnia assicurativa, Show to users, Show to user roles, Corpo, Tags, Allegati, Invia una email di notifica agli utenti dopo il salvataggio                                       |
-| Content      | Articoli     | Elimina              |                                                                                                                                                                                                                                                    |
-| Dallbogg     | DLLBG Titoli | Ania Real Time Batch | data di pagamento. Re-sync                                                                                                                                                                                                                         |
-| Dallbogg     | DLLBG Titoli | Update Closure       | ANIA status can be set to -, green, yellow, orange, red, grey. notes. real-time ANIA button. real-time NEMESI button. real-time INFODRIVE button. real-time GOASSISTANCE button. close and Save Changes button                                     |
-| Dallbogg     | DLLBG Titoli | Guarda               |                                                                                                                                                                                                                                                    |
-| Dallbogg     | DLLBG Titoli | Aggiorna             | Stato titolo can be set to Da incassare, Incassato, Non Incassato, Interrotto, Annullato. Forma pagamento can be set to N/A, Contanti, Bonifico, Carta di credito o Bancomat, Assegno. Data Pagamento. Update Dates for Data Inizio, Data Scadenza |
-| Dallbogg     | DLLBG Titoli | Elimina              |                                                                                                                                                                                                                                                    |
-|              |              |                      |                                                                                                                                                                                                                                                    |
-
 \---
 
-
-
-| Main feature | Feature      | Secondary feature    |
-| ------------ | ------------ | -------------------- |
-| Content      | Articoli     | Aggiungi articolo    |
-| Content      | Articoli     | Guarda               |
-| Content      | Articoli     | Aggiorna             |
-| Content      | Articoli     | Elimina              |
-| Dallbogg     | DLLBG Titoli | Ania Real Time Batch |
-| Dallbogg     | DLLBG Titoli | Update Closure       |
-| Dallbogg     | DLLBG Titoli | Guarda               |
-| Dallbogg     | DLLBG Titoli | Aggiorna             |
-| Dallbogg     | DLLBG Titoli | Elimina              |
+<table data-full-width="false"><thead><tr><th width="164">Main feature</th><th width="151">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Content</td><td>Articoli</td><td>Aggiungi articolo</td></tr><tr><td>Content</td><td>Articoli</td><td>Guarda</td></tr><tr><td>Content</td><td>Articoli</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Articoli</td><td>Elimina</td></tr><tr><td>Content</td><td>Tags</td><td>aggiungi tag</td></tr><tr><td>Content</td><td>Tags</td><td>Aggiungi tag</td></tr><tr><td>Content</td><td>Tags</td><td>Guarda</td></tr><tr><td>Content</td><td>Tags</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Tags</td><td>Elimina</td></tr><tr><td>Content</td><td>Menù</td><td>Aggiungi categoria</td></tr><tr><td>Content</td><td>Menù</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Menù</td><td>Elimina</td></tr><tr><td>Content</td><td>Documenti</td><td>Aggiungi documento</td></tr><tr><td>Content</td><td>Documenti</td><td>Guarda</td></tr><tr><td>Content</td><td>Documenti</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Documenti</td><td>Elimina</td></tr><tr><td>Content</td><td>Pagine</td><td>Aggiungi pagina</td></tr><tr><td>Content</td><td>Pagine</td><td>Guarda</td></tr><tr><td>Content</td><td>Pagine</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Pagine</td><td>Elimina</td></tr><tr><td>Content</td><td>Applicazioni Esterne</td><td>Aggiungi applicazione esterna</td></tr><tr><td>Content</td><td>Applicazioni Esterne</td><td>Guarda</td></tr><tr><td>Content</td><td>Applicazioni Esterne</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Applicazioni Esterne</td><td>Elimina</td></tr><tr><td>Content</td><td>Blocchi</td><td>Aggiungi block</td></tr><tr><td>Content</td><td>Blocchi</td><td>Guarda</td></tr><tr><td>Content</td><td>Blocchi</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Blocchi</td><td>Elimina</td></tr><tr><td>Content</td><td>Questionari</td><td>Aggiungi questionario</td></tr><tr><td>Content</td><td>Questionari</td><td>Guarda</td></tr><tr><td>Content</td><td>Questionari</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Questionari</td><td>Elimina</td></tr></tbody></table>
 
