@@ -73,7 +73,15 @@ description: List of features and subfeatures for LLM
 
 
 
-\---
+***
+
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Dashboard</td><td></td><td></td></tr></tbody></table>
+
+
+
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Main</td><td></td><td>Home</td></tr><tr><td>Main</td><td></td><td>Dashboard</td></tr><tr><td>Main</td><td>Applicazioni</td><td>Euroherc</td></tr><tr><td>Main</td><td>Applicazioni</td><td>DALLBOGG MTR</td></tr><tr><td>Main</td><td>Applicazioni</td><td>DALLBOGG RCP</td></tr><tr><td>Main</td><td>Applicazioni</td><td>ICN</td></tr><tr><td>Main</td><td>Applicazioni</td><td>BrokerPlus</td></tr><tr><td>Main</td><td>Applicazioni</td><td>Facile Sviluppo</td></tr><tr><td>Main</td><td>Applicazioni</td><td>Area Riservata Clienti</td></tr></tbody></table>
+
+
 
 <table data-full-width="false"><thead><tr><th width="164">Main feature</th><th width="151">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Content</td><td>Articoli</td><td>Aggiungi articolo</td></tr><tr><td>Content</td><td>Articoli</td><td>Guarda</td></tr><tr><td>Content</td><td>Articoli</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Articoli</td><td>Elimina</td></tr><tr><td>Content</td><td>Tags</td><td>aggiungi tag</td></tr><tr><td>Content</td><td>Tags</td><td>Aggiungi tag</td></tr><tr><td>Content</td><td>Tags</td><td>Guarda</td></tr><tr><td>Content</td><td>Tags</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Tags</td><td>Elimina</td></tr><tr><td>Content</td><td>Menù</td><td>Aggiungi categoria</td></tr><tr><td>Content</td><td>Menù</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Menù</td><td>Elimina</td></tr><tr><td>Content</td><td>Documenti</td><td>Aggiungi documento</td></tr><tr><td>Content</td><td>Documenti</td><td>Guarda</td></tr><tr><td>Content</td><td>Documenti</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Documenti</td><td>Elimina</td></tr><tr><td>Content</td><td>Pagine</td><td>Aggiungi pagina</td></tr><tr><td>Content</td><td>Pagine</td><td>Guarda</td></tr><tr><td>Content</td><td>Pagine</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Pagine</td><td>Elimina</td></tr><tr><td>Content</td><td>Applicazioni Esterne</td><td>Aggiungi applicazione esterna</td></tr><tr><td>Content</td><td>Applicazioni Esterne</td><td>Guarda</td></tr><tr><td>Content</td><td>Applicazioni Esterne</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Applicazioni Esterne</td><td>Elimina</td></tr><tr><td>Content</td><td>Blocchi</td><td>Aggiungi block</td></tr><tr><td>Content</td><td>Blocchi</td><td>Guarda</td></tr><tr><td>Content</td><td>Blocchi</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Blocchi</td><td>Elimina</td></tr><tr><td>Content</td><td>Questionari</td><td>Aggiungi questionario</td></tr><tr><td>Content</td><td>Questionari</td><td>Guarda</td></tr><tr><td>Content</td><td>Questionari</td><td>Aggiorna</td></tr><tr><td>Content</td><td>Questionari</td><td>Elimina</td></tr></tbody></table>
 
@@ -95,19 +103,47 @@ description: List of features and subfeatures for LLM
 
 
 
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>DAS</td><td>DAS Anagrafiche</td><td>Guarda</td></tr><tr><td>DAS</td><td>DAS Anagrafiche</td><td>Aggiorna</td></tr><tr><td>DAS</td><td>DAS Polizze</td><td>Guarda</td></tr><tr><td>DAS</td><td>DAS Polizze</td><td>Aggiorna</td></tr><tr><td>DAS</td><td>DAS Polizze</td><td>Cancella</td></tr><tr><td>DAS</td><td>DAS Titoli</td><td>Update Closure</td></tr><tr><td>DAS</td><td>DAS Titoli</td><td>Guarda</td></tr><tr><td>DAS</td><td>DAS Titoli</td><td>Aggiorna</td></tr><tr><td>DAS</td><td>DAS FC</td><td>Stampa PDF</td></tr></tbody></table>
 
 
 
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Quietanza Printout</td><td></td><td>Aggiungi quietanza printout</td></tr><tr><td>Quietanza Printout</td><td></td><td>Guarda</td></tr></tbody></table>
 
 
 
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Report Titoli</td><td></td><td>Aggiungi report titoli</td></tr><tr><td>Report Titoli</td><td></td><td>Dallbogg MTR XLSX</td></tr><tr><td>Report Titoli</td><td></td><td>Dallbogg RCP XLSX</td></tr><tr><td>Report Titoli</td><td></td><td>Das LGS XLSX</td></tr><tr><td>Report Titoli</td><td></td><td>Quotazioni XLSX</td></tr></tbody></table>
 
 
 
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Report Polizze</td><td></td><td>Aggiungi Polizze Report</td></tr><tr><td>Report Polizze</td><td></td><td>Guarda</td></tr></tbody></table>
 
 
 
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Estratti conto</td><td></td><td>Aggiungi Estratti conto</td></tr><tr><td>Estratti conto</td><td></td><td>Dallbogg MTR PDF</td></tr><tr><td>Estratti conto</td><td></td><td>Das LGS PDF</td></tr><tr><td>Estratti conto</td><td></td><td>Dallbogg MTR XLSX</td></tr><tr><td>Estratti conto</td><td></td><td>Das LGS XLSX</td></tr></tbody></table>
 
+
+
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Sconti</td><td>Sconti template</td><td>Aggiungi Sconti template</td></tr><tr><td>Sconti</td><td>Sconti template</td><td>Guarda</td></tr><tr><td>Sconti</td><td>Sconti template</td><td>Aggiorna</td></tr><tr><td>Sconti</td><td>Sconti template</td><td>Elimina</td></tr><tr><td>Sconti</td><td>Sconti template</td><td>Generate rule</td></tr><tr><td>Sconti</td><td>Discount activation</td><td>Aggiungi discount activation</td></tr><tr><td>Sconti</td><td>Discount activation</td><td>Aggiorna</td></tr><tr><td>Sconti</td><td>Discount activation</td><td>Elimina</td></tr><tr><td>Sconti</td><td>Associazione Sconti</td><td>Aggiungi Associazione Sconti</td></tr><tr><td>Sconti</td><td>Associazione Sconti</td><td>Aggiorna</td></tr><tr><td>Sconti</td><td>Associazione Sconti</td><td>Elimina</td></tr></tbody></table>
+
+
+
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Companies</td><td>Compagnie ass.</td><td>Aggiungi compagnia assicurativa</td></tr><tr><td>Companies</td><td>Compagnie ass.</td><td>Guarda</td></tr><tr><td>Companies</td><td>Compagnie ass.</td><td>Aggiorna</td></tr><tr><td>Companies</td><td>Compagnie ass.</td><td>Elimina</td></tr></tbody></table>
+
+
+
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Admin</td><td>Tasse</td><td>Aggiungi tassa</td></tr><tr><td>Admin</td><td>Tasse</td><td>Guarda</td></tr><tr><td>Admin</td><td>Tasse</td><td>Aggiorna</td></tr><tr><td>Admin</td><td>Tasse</td><td>Elimina</td></tr><tr><td>Admin</td><td>Variabili di Sistema</td><td>Aggiungi variabile di sistema</td></tr><tr><td>Admin</td><td>Variabili di Sistema</td><td>Guarda</td></tr><tr><td>Admin</td><td>Variabili di Sistema</td><td>Aggiorna</td></tr><tr><td>Admin</td><td>Variabili di Sistema</td><td>Elimina</td></tr></tbody></table>
+
+
+
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Construction kits</td><td>Prodotti</td><td>Aggiungi prodotto</td></tr><tr><td>Construction kits</td><td>Prodotti</td><td>Guarda</td></tr><tr><td>Construction kits</td><td>Prodotti</td><td>Aggiorna</td></tr><tr><td>Construction kits</td><td>Prodotti</td><td>Elimina</td></tr><tr><td>Construction kits</td><td>Garanzie</td><td>Aggiungi garanzia</td></tr><tr><td>Construction kits</td><td>Garanzie</td><td>Guarda</td></tr><tr><td>Construction kits</td><td>Garanzie</td><td>Aggiorna</td></tr><tr><td>Construction kits</td><td>Garanzie</td><td>Elimina</td></tr><tr><td>Construction kits</td><td>Garanzie</td><td>Clone</td></tr><tr><td>Construction kits</td><td>Prodotti vendibili</td><td>Guarda</td></tr></tbody></table>
+
+
+
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Signature sessions</td><td></td><td>Guarda</td></tr></tbody></table>
+
+
+
+<table><thead><tr><th width="164">Main feature</th><th width="194">Feature</th><th width="224">Secondary feature</th></tr></thead><tbody><tr><td>Esci</td><td></td><td></td></tr></tbody></table>
 
 
 
