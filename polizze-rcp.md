@@ -26,11 +26,11 @@ Espandendo il menu "Dallbogg" comparirà la sezione dedicata alle polizze RCP.
 
 L'elaborazione del preventivo da parte dell'utente avviene tramite l'inserimento delle informazioni necessarie al calcolo della tariffa. La procedura è suddivisa in cinque passi più un sesto di riepilogo.
 
-Il preventivo può essere elaborato anche in più sessioni, una volta iniziato sarà possibile richiamarlo dalla lista delle "RCP Quotazioni" presente in Dashboard. I preventivi non finalizzati avranno l'etichetta DRAFT. E' bene sottolineare che un preventivo etichettato come DRAFT non è ancora emesso e, di conseguenza, non ha valore nei confronti del cliente.&#x20;
-
-In base alla categoria professionale (esempio: Tecnici, Commercialisti...) il questionario e le garanzie disponibili cambieranno automaticamente.&#x20;
+Il preventivo può essere elaborato anche in più sessioni, una volta iniziato sarà possibile richiamarlo dalla lista delle "RCP Quotazioni" presente in Dashboard. I preventivi non finalizzati avranno l'etichetta BOZZA. E' bene sottolineare che un preventivo etichettato come BOZZA non è ancora emesso e, di conseguenza, non ha valore nei confronti del cliente.&#x20;
 
 A seguito del controllo dei valori immessi nella schermata di riepilogo, è possibile emettere e stampare il preventivo. Lo stato del preventivo verrà aggiornato su PROPOSAL (Emesso). Tale preventivo ha ora valore vincolante nei confronti del cliente.&#x20;
+
+Lo stato del preventivo è indicato anche con un semaforo colorato.
 
 Il preventivo è composto da 6 pannelli:
 
@@ -46,6 +46,8 @@ Il preventivo è composto da 6 pannelli:
 In questo pannello vengono indicate le informazioni relative alla professione svolta dal cliente e il massimale desiderato. Inoltre in questa pagina si può scaricare il questionario da far compilare al cliente premendo l'apposito pulsante "stampa questionario".
 
 Durante la compilazione della sezione "Attività", verranno automaticamente aggiunte le garanzie in base gli importi indicati per ciascuna voce.
+
+In base alla categoria professionale (esempio: Tecnici, Commercialisti...) il questionario e le garanzie disponibili cambieranno automaticamente.&#x20;
 
 <figure><img src=".gitbook/assets/image (63).png" alt=""><figcaption><p>info fatturato</p></figcaption></figure>
 
@@ -124,7 +126,7 @@ Nel caso in cui il cliente sia interessato all'acquisto del preventivo emesso è
 
 Adesso nella pagina di riepilogo del preventivo si trovano alcuni nuovi pulsanti:
 
-![](<.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 * **Stampa** è un menù a tendina per scaricare il PDF della proposta di contratto o della polizza.
 * **Go to Polizza** apre in una nuova scheda i dettagli della polizza.
@@ -163,7 +165,7 @@ Per rendere effettiva l'operazione di cancellazione, è necessario incassare il 
 Scorrendo verso il fondo della pagina dei dettagli della polizza, troverai il pulsante Stato dell'aggiornamento, che ti porterà alla schermata per incassare il titolo.
 
 In alternativa, si può accedere a questo pulsante anche dalla sezione **RCP Titoli** premendo il\
-pulsante **Aggiorna** <img src=".gitbook/assets/image (1).png" alt="" data-size="original"> in corrispondenza della riga dedicata al titolo di cancellazione.
+pulsante **Aggiorna** <img src=".gitbook/assets/image (1) (1).png" alt="" data-size="original"> in corrispondenza della riga dedicata al titolo di cancellazione.
 
 ### Sostituire polizza
 

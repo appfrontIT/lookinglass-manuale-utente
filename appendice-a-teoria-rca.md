@@ -60,7 +60,7 @@ Le operazioni di recupero ATR o di applicazione del decreto Bersani sono soggett
 
 ### I dati del contratto
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Il secondo form della procedura di preventivazione relativo al percorso di vendita</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Il secondo form della procedura di preventivazione relativo al percorso di vendita</p></figcaption></figure>
 
 Il secondo form del tool di preventivazione permette di inserire la data e l'ora della decorrenza della copertura, nonché la tipologia di frazionamento annuale o semestrale. Inoltre è possibile verificare la catena di vendita in atto in base al codice dell'intermediario/produttore e all'utente indicati (VA INSERITO IL RIASSEGNAMENTO DI UN PREVENTIVO?). E' inoltre possibile inserire qui le informazioni relative ad un vincolo, se presente.&#x20;
 
