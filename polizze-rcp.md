@@ -12,7 +12,7 @@ Espandendo il menu "Dallbogg" comparirà la sezione dedicata alle polizze RCP.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (62).png" alt="" width="107"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (62).png" alt="" width="160"><figcaption></figcaption></figure>
 
 </div>
 
