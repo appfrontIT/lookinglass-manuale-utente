@@ -71,7 +71,7 @@ In particolare l'indirizzo email inserito come dato di contatto verrà utilizzat
 
 ### 1.4 Garanzie
 
-Nel quarto pannello è possibile selezionare il prodotto RCP Tecnici, che include diverse garanzie, alcune delle quali vengono selezionate automaticamente in base alle informazioni fornite nel primo pannello.
+Nel quarto pannello è possibile selezionare il prodotto RCP che include diverse garanzie, alcune delle quali vengono selezionate automaticamente in base alle informazioni fornite nel primo pannello.
 
 <figure><img src=".gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
