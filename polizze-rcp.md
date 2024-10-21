@@ -28,7 +28,7 @@ L'elaborazione del preventivo da parte dell'utente avviene tramite l'inserimento
 
 Il preventivo può essere elaborato anche in più sessioni, una volta iniziato sarà possibile richiamarlo dalla lista delle "RCP Quotazioni" presente in Dashboard. I preventivi non finalizzati avranno l'etichetta BOZZA. E' bene sottolineare che un preventivo etichettato come BOZZA non è ancora emesso e, di conseguenza, non ha valore nei confronti del cliente.&#x20;
 
-A seguito del controllo dei valori immessi nella schermata di riepilogo, è possibile emettere e stampare il preventivo. Lo stato del preventivo verrà aggiornato su PROPOSAL (Emesso). Tale preventivo ha ora valore vincolante nei confronti del cliente.&#x20;
+A seguito del controllo dei valori immessi nella schermata di riepilogo, è possibile emettere e stampare il preventivo. Lo stato del preventivo verrà aggiornato su PROPOSTA AUTORIZZATA. Tale preventivo ha ora valore vincolante nei confronti del cliente.&#x20;
 
 Lo stato del preventivo è indicato anche con un semaforo colorato.
 
@@ -116,7 +116,7 @@ A questo punto viene inviata immediatamente:
 
 A questo punto **sia l'amministratore, sia l'assicuratore** possono stampare la proposta di contratto e eventualmente procedere con l'emissione della polizza.\
 \
-Un preventivo emesso (PROPOSAL) ha una validità legale di 30 giorni. Se il cliente ne richiede l'acquisto superato questo termine, è necessario eseguire una nuova preventivazione.
+Un preventivo emesso (PROPOSTA AUTORIZZATA) ha una validità legale di 30 giorni. Se il cliente ne richiede l'acquisto superato questo termine, è necessario eseguire una nuova preventivazione.
 
 ### 1.8 Emissione polizza
 
@@ -138,8 +138,8 @@ Pulsante a forma di occhio "Visualizza" ![](<.gitbook/assets/Screenshot (255).pn
 
 Dal menù RCP **Quotazioni** porta alla schermata di riepilogo del preventivo.
 
-* Se in stato "PROPOSAL" si può raggiungere il tasto di emissione polizza.
-* Se in stato "POLICY" si possono raggiungere i tasti descritti nel paragrafo precedente.
+* Se in stato "PROPOSTA AUTORIZZATA" si può raggiungere il tasto di emissione polizza.
+* Se in stato "POLIZZA EMESSA" si possono raggiungere i tasti descritti nel paragrafo precedente.
 
 Dal menù **RCP Polizze** si accede ai dettagli della polizza. Da questa pagina è inoltre possibile caricare il simplo firmato.
 
