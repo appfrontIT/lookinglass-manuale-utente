@@ -24,9 +24,11 @@ Espandendo il menu "Dallbogg" comparirà la sezione dedicata alle polizze RCP.
 
 ## 1. Preventivi
 
-L'elaborazione del preventivo da parte dell'utente avviene tramite l'inserimento delle informazioni necessarie al calcolo della tariffa. La procedura è suddivisa in cinque passi più un sesto di riepilogo.&#x20;
+L'elaborazione del preventivo da parte dell'utente avviene tramite l'inserimento delle informazioni necessarie al calcolo della tariffa. La procedura è suddivisa in cinque passi più un sesto di riepilogo.
 
-Il preventivo può essere elaborato anche in più sessioni, una volta iniziato sarà possibile richiamarlo dalla lista delle "RCP Quotazioni" presente in Dashboard. I preventivi non finalizzati avranno nello stato l'etichetta DRAFT. E' bene sottolineare che un preventivo etichettato come DRAFT non è ancora emesso e, di conseguenza, non ha valore nei confronti del cliente.&#x20;
+Il preventivo può essere elaborato anche in più sessioni, una volta iniziato sarà possibile richiamarlo dalla lista delle "RCP Quotazioni" presente in Dashboard. I preventivi non finalizzati avranno l'etichetta DRAFT. E' bene sottolineare che un preventivo etichettato come DRAFT non è ancora emesso e, di conseguenza, non ha valore nei confronti del cliente.&#x20;
+
+In base alla categoria professionale (esempio: Tecnici, Commercialisti...) il questionario e le garanzie disponibili cambieranno automaticamente.&#x20;
 
 A seguito del controllo dei valori immessi nella schermata di riepilogo, è possibile emettere e stampare il preventivo. Lo stato del preventivo verrà aggiornato su PROPOSAL (Emesso). Tale preventivo ha ora valore vincolante nei confronti del cliente.&#x20;
 
