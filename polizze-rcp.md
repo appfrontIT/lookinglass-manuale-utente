@@ -134,6 +134,8 @@ Adesso nella pagina di riepilogo del preventivo si trovano alcuni nuovi pulsanti
 
 ## Indicazioni generali
 
+### Pulsante "visualizza"
+
 Pulsante a forma di occhio "Visualizza" ![](<.gitbook/assets/Screenshot (255).png>)
 
 Dal menù RCP **Quotazioni** porta alla schermata di riepilogo del preventivo.
@@ -145,7 +147,13 @@ Dal menù **RCP Polizze** si accede ai dettagli della polizza. Da questa pagina 
 
 Dal menù **RCP Titoli** porta al dettaglio della specifica operazione di cambio di stato della polizza.
 
+### Note
 
+È possibile aggiungere note alla fine di ciascuna pagina del preventivo.
+
+Dopo aver premuto il pulsante "Salva nota" saranno visibili su tutte le pagine del preventivo, inoltre in caso di clonazione del preventivo, le note saranno riportate anche nel preventivo clonato.
+
+Le note non saranno visibili sul PDF della proposta di contratto o della polizza.
 
 ## Operazioni
 
