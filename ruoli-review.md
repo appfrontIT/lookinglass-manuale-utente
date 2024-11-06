@@ -14,7 +14,7 @@ Il ruolo  è una funzionalità che consente ai utenti di Lookinglass di eseguire
 
 Per poter effettuare la creazione di un ruolo si deve selezionare l'apposita voce presente sul menu a scomparsa presente a sinistra della pagina.
 
-Una volta all'interno della della preview sarà possibile creare un nuovo ruolo selezionando il bottone rosso "+aggiungi rosso".
+Una volta all'interno della della preview sarà possibile creare un nuovo ruolo selezionando il bottone rosso "+aggiungi ruolo".
 
 <figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
