@@ -62,7 +62,7 @@ IL terzo campo è Targa Attestato di Rischio, se diversa, anche qui sono present
 \- Recupero ATR da decesso, il Recupero ATR da decesso viene utilizzato quando il cliente  vuole recuperare l'ATR da decesso per metterlo sulla nuova auto che si vuole assicurare,\
 N.B.: per poter recuperare l'ATR è necessario che la polizza presente sia terminata.\
 \- Bersani stesso proprietario, la Bersani stesso proprietario si effettua quando il proprietario di un veicolo vuole passare la classe di merito ad un'altra sua auto di proprietà.\
-\-Bersani famiglia, la Bersani famigliare permette il recupero della classe di merito da un famigliare convivente, ad esempio:\
+-Bersani famiglia, la Bersani famigliare permette il recupero della classe di merito da un famigliare convivente, ad esempio:\
 Giovanni ha una classe di merito 1 ed ha un figlio di nome Marco. Marco ha appena acquistato un auto e la vuole assicurare, invece di iniziare con la classe di merito 14 (come ogni nuovo veicolo) prenderà la classe di merito del padre, cioè 1.
 
 Infine passiamo ai dati tecnici dell'auto, qui possiamo fare due distinzioni principali, la prima sono i campi in grigio, mentre i secondi sono quelli in bianchi.\
@@ -196,6 +196,32 @@ Stamparlo, firmarlo e ricaricarlo sul portale, insieme al consenso privacy ed in
 Una volta emessa la polizza abbiamo la possibilità di visionare tutto ciò che è stato fatto sulla polizza ed i documenti corelati ad essa. \
 In basso a destra si ha la possibilità di stampare la polizza, oppure visionare la polizza in Polizze o in Titoli.\
 N.B.: Si ricorda che entro 60 giorni dall'emissione della polizza bisogna inviare il simplo di polizza firmato ovvero la pagina delle dichiarazioni del contraente, al seguente indirizzo email: simplifirmati@adllbogg.it
+
+
+
+### Firma digitale
+
+Se il ruolo dispone del premesso **"Abilita documentazione aggiuntiva"** attiva, saranno visibili anche i seguenti campi:
+
+* **Lettera incarico**
+* **Dichiarazione di Appropriatezza**
+* **Modulo privacy broker**
+* **Ricevuta documenti**
+
+È possibile firmare una parte dei documenti e completare la firma degli altri in un secondo momento. Per farlo:
+
+1. Seleziona i documenti desiderati.
+2. Premi il pulsante **"Inizia sessione di firma"**.
+
+<figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+
+Se si desidera avviare una nuova sessione di firma per completare i documenti rimanenti:
+
+1. Elimina la sessione di firma precedente.
+2. Seleziona i documenti ancora da firmare.
+3. Avvia una nuova sessione premendo nuovamente **"Inizia sessione di firma"**.
+
+<figure><img src=".gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 
 

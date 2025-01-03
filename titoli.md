@@ -14,11 +14,7 @@ Un titolo è un operazione contabile che può essere incassata in varie forme, t
 
 I Titoli come per le Polizze sono suddivise in sezioni distinte, una parte si trovano sotto la voce Titoli(quelle emesse dal portale Lookinglass) e l'altre sotto Titoli Amarea (sono quelle emesse dal portale Amarea).
 
-<div data-full-width="true">
-
-<figure><img src=".gitbook/assets/Immagine 2023-07-27 142053.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/Immagine 2023-07-27 142053.png" alt=""><figcaption></figcaption></figure></div>
 
 Come potete vedere da immagine la tabella è identica a quella delle polizze con piccole differenze sui filtri presenti ed l'azioni che si possono eseguire.
 
@@ -45,7 +41,7 @@ Cosa si può fare con un titolo ? basicamente possiamo fare 2 azioni:
 
 &#x20;                                                                   **3** non incassato, se il cliente non paga la quietanza
 
-&#x20;                                                                   **4** annullato**,** in caso il cliente decidesse cancellare la  &#x20;
+&#x20;                                                                   **4** annullat&#x6F;**,** in caso il cliente decidesse cancellare la  &#x20;
 
 &#x20;                                                                       polizza  entro i 14 giorni di ripensamento&#x20;
 
