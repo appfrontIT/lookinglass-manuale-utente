@@ -201,7 +201,7 @@ N.B.: Si ricorda che entro 60 giorni dall'emissione della polizza bisogna inviar
 
 ### Firma digitale
 
-Se il ruolo dispone del premesso **"Abilita documentazione aggiuntiva"** attiva, saranno visibili anche i seguenti campi:
+Se il ruolo dispone del premesso **"Abilita documentazione aggiuntiva"**, saranno visibili anche i seguenti campi:
 
 * **Lettera incarico**
 * **Dichiarazione di Appropriatezza**
@@ -223,7 +223,7 @@ Se si desidera avviare una nuova sessione di firma per completare i documenti ri
 
 <figure><img src=".gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
-
+**N.B.:** L'eliminazione della sessione di firma non comporta la cancellazione dei documenti precedentemente firmati, che resteranno validi e registrati.
 
 ### 4. Come modificare un preventivo
 
