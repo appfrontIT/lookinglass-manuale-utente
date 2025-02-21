@@ -41,7 +41,7 @@ Per effettuare la modifica di un ruolo basterà rimanere sulla pagina della prev
 
 #### 3.2 Duplica&#x20;
 
-Per duplicare un profilo basterà andare sull'icona  ![](<.gitbook/assets/image (48).png>)  presente nella colonna Azioni, ciò creerà una copia identica al profilo originale da poter modificare.
+Per duplicare un profilo basterà andare sull'icona  ![](<.gitbook/assets/image (48).png>)c  presente nella colonna Azioni, ciò creerà una copia identica al profilo originale da poter modificare.
 
 
 
