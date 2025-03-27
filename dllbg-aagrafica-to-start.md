@@ -1,2 +1,0 @@
-# DLLBG Aagrafica (to start)
-
