@@ -19,3 +19,4 @@
 * [Appendice A Teoria RCA](appendice-a-teoria-rca.md)
 * [Appendice B Elenco funzionalità](appendice-b-elenco-funzionalita.md)
 * [Quotation procedure (EN)](quotation-procedure-en.md)
+* [Policy Management (EN)](policy-management-en.md)
