@@ -18,3 +18,4 @@
 * [Polizze RCP](polizze-rcp.md)
 * [Appendice A Teoria RCA](appendice-a-teoria-rca.md)
 * [Appendice B Elenco funzionalità](appendice-b-elenco-funzionalita.md)
+* [Quotation procedure (EN)](quotation-procedure-en.md)
