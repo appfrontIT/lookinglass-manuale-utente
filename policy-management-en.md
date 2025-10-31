@@ -50,7 +50,18 @@ Replacement can be triggered from the policy list or directly from the policy de
 
 * A policy **cannot** be replaced on the same day it was issued
 * The original _titolo_ must be valid and paid
-* Replacement results in a new policy with a new ID; the old policy is automatically closed
+* Replacement results in a new policy with a new ID; the old policy is automatically closed\
+
+
+**Additional Notes for WAKAM Policies**
+
+For **WAKAM** policies, replacements now automatically keep certain parameters from the previous policy to ensure pricing consistency:
+
+* The **ATRC Level** (a coefficient used to calculate premiums) remains the same as in the former policy
+* The **intermediary** cannot be changed during a replacement
+* The **region** may change; in that case, the pricing template will adapt accordingly
+* Changing the **Fiscal Code** does not affect the quotation price
+* If specific ownership or ATR options are modified, the premium may change accordingly
 
 ***
 
