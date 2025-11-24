@@ -20,4 +20,6 @@
 * [Appendice B Elenco funzionalità](appendice-b-elenco-funzionalita.md)
 * [Quotation procedure (EN)](quotation-procedure-en.md)
 * [Policy Management (EN)](policy-management-en.md)
-* [Domain management](domain-management.md)
+* [Gestione dei Domini](gestione-dei-domini.md)
+* [WAKAM – AML / LCB-FT Screening & Gestione Segnalazioni](wakam-aml-lcb-ft-screening-and-gestione-segnalazioni.md)
+* [Page 1](page-1.md)

@@ -13,12 +13,11 @@ Le casistiche nella quale la sostituzione polizza è necessarie sono principalme
 \
 \- Durante l'emissione polizza l'intermediario e il contraente non si sono resi conto che i dati riportati sopra la polizza sono errati.\
 \- Quando un auto viene demolita e si vuole assicurare un altro veicolo dello stesso proprietario senza fare un recupero ATR.\
-\-Quando un auto viene venduta ad un diverso proprietario o esportata in un altro paese, ma il contraente della polizza ha già un auto un'altra auto da assicurare.
+-Quando un auto viene venduta ad un diverso proprietario o esportata in un altro paese, ma il contraente della polizza ha già un auto un'altra auto da assicurare.
 
 
 
-La sostituzione della polizza può essere eseguita in due modi: eseguendola dalla tabella con l'elenco delle polizze oppure dall'anteprima di polizza. \
-
+La sostituzione della polizza può essere eseguita in due modi: eseguendola dalla tabella con l'elenco delle polizze oppure dall'anteprima di polizza. <br>
 
 
 
@@ -48,8 +47,7 @@ Una volta selezionato cancella si verrà rindirizzati su titoli dove si verrà m
 Una polizza può essere sospesa in qualsiasi momento gli unici 2 criteri da seguire sono:\
 \- la polizza non può essere sospesa se ci sono titoli insoluti, ad esempio:&#x20;
 
-Se è presente una quietanza già scaduta, non è possibile richiedere la sospensione della polizza della polizza nei giorni/ mesi successivi, fintanto che non viene eseguito il pagamento del titolo insoluto.\
-
+Se è presente una quietanza già scaduta, non è possibile richiedere la sospensione della polizza della polizza nei giorni/ mesi successivi, fintanto che non viene eseguito il pagamento del titolo insoluto.<br>
 
 \- la sospensione si può fare fino al giorno prima o il giorno dopo della quietanza, ma non il giorno stesso.\
 Per poter fare una sospensione è molto simile alla cancellazione l'unica cosa che cambia è l'immagine da selezionare nella colonna delle azioni in polizza, che è questa qui![](<.gitbook/assets/Immagine 2023-07-26 121950.png>).&#x20;

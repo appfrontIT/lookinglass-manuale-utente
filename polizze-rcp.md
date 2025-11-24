@@ -10,11 +10,7 @@ description: Questo capitolo contiene informazioni utili per l'emissione dei pre
 
 Espandendo il menu "Dallbogg" comparirà la sezione dedicata alle polizze RCP.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (62).png" alt="" width="160"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (62).png" alt="" width="160"><figcaption></figcaption></figure></div>
 
 * **RCP Nuova quotazione** porta alla schermata di emissione di un nuovo preventivo.
 * **RCP Quotazioni** porta alla lista dei preventivi.
@@ -126,7 +122,7 @@ Nel caso in cui il cliente sia interessato all'acquisto del preventivo emesso è
 
 Adesso nella pagina di riepilogo del preventivo si trovano alcuni nuovi pulsanti:
 
-![](<.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (1) (1) (1) (2).png>)
 
 * **Stampa** è un menù a tendina per scaricare il PDF della proposta di contratto o della polizza.
 * **Go to Polizza** apre in una nuova scheda i dettagli della polizza.
@@ -173,7 +169,7 @@ Per rendere effettiva l'operazione di cancellazione, è necessario incassare il 
 Scorrendo verso il fondo della pagina dei dettagli della polizza, troverai il pulsante Stato dell'aggiornamento, che ti porterà alla schermata per incassare il titolo.
 
 In alternativa, si può accedere a questo pulsante anche dalla sezione **RCP Titoli** premendo il\
-pulsante **Aggiorna** <img src=".gitbook/assets/image (1) (1).png" alt="" data-size="original"> in corrispondenza della riga dedicata al titolo di cancellazione.
+pulsante **Aggiorna** <img src=".gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"> in corrispondenza della riga dedicata al titolo di cancellazione.
 
 ### Sostituire polizza
 
@@ -188,11 +184,7 @@ Dopo aver emesso il nuovo preventivo, comparirà il tasto "SOSTITUISCI" nella sc
 
 Cliccando su questo pulsante, verrà generato un nuovo titolo, e al numero di polizza verrà aggiunto un suffisso nel formato _numeropolizza.numerosostituzione_.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Note per l'amministratore del sistema
 

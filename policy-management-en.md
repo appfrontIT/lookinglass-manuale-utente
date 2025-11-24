@@ -50,8 +50,7 @@ Replacement can be triggered from the policy list or directly from the policy de
 
 * A policy **cannot** be replaced on the same day it was issued
 * The original _titolo_ must be valid and paid
-* Replacement results in a new policy with a new ID; the old policy is automatically closed\
-
+* Replacement results in a new policy with a new ID; the old policy is automatically closed<br>
 
 **Additional Notes for WAKAM Policies**
 
