@@ -1,20 +1,25 @@
 ---
-description: WAKAM AML / LCB-FT Screening & Claims Management
+description: AML / LCB-FT Screening & Claims Management
 ---
 
-# WAKAM – AML / LCB-FT Screening & Gestione Segnalazioni
+# AML / LCB-FT Screening & Gestione Segnalazioni
 
-Il modulo [Segnalazioni AML](https://devlg.ipagency.it/aml-claims)  in Lookinglass è utilizzato **esclusivamente dagli intermediari WAKAM**.<br>
+Il modulo **Segnalazioni AML** in Lookinglass permette agli intermediari di visualizzare i risultati degli screening AML, verificare eventuali match, e gestire le decisioni direttamente all’interno della piattaforma.
 
 ***
 
 ### Rapporti di screening AML
 
 \
-Ogni volta che WAKAM esegue un controllo AML, Lookinglass genera un rapporto AML raggruppato che riassume tutti i clienti sottoposti a screening.\
-È possibile accedere ai rapporti da:
+**Report di Screening AML**
 
-**Menu → Segnalazioni AML**\
+Ogni volta che un controllo AML viene effettuato dal provider esterno, Lookinglass genera un report raggruppato che riassume tutti i clienti analizzati.
+
+I report sono accessibili da:
+
+**Menu → Segnalazioni AML**
+
+\
 ![](.gitbook/assets/image.png)
 
 
@@ -25,14 +30,14 @@ Ogni volta che WAKAM esegue un controllo AML, Lookinglass genera un rapporto AML
 
 ### Notifiche via e-mail
 
-Quando viene rilevata una potenziale corrispondenza, gli intermediari WAKAM ricevono un'e-mail automatica di avviso AML.\
-\
-L'e-mail contiene:
+Quando viene rilevato un potenziale match, gli intermediari ricevono automaticamente un’email di allerta AML.
+
+L’email contiene:
 
 * Nome del cliente
-* Numero dei match rilevati
-* Link all’alert AML WAKAM
-* Link al Segnalare AML in Lookinglass
+* Numero dei termini corrispondenti
+* Link alla segnalazione AML sul portale esterno
+* Link al report AML in Lookinglass
 * Link alla pagina pubblica di ComplyAdvantage
 
 ***
@@ -61,7 +66,7 @@ Questa pagina include:
 
 ***
 
-### Avviso AML WAKAM (link ID)
+### Avviso AML  (link ID)
 
 \
 Il link "ID" apre il caso AML sul portale AML WAKAM.\
@@ -103,7 +108,7 @@ La segnalazione include:
 
 * Nome cliente e codice fiscale
 * Paese di nascita
-* ID risposta WAKAM
+* ID risposta&#x20;
 * Tutti i submitted terms
 * Riferimenti ComplyAdvantage
 * Note interne
@@ -126,7 +131,7 @@ Altrimenti appare l’avviso:
 
 ***
 
-### Processo di revisione AML WAKAM (flusso intermedio)
+### Processo di revisione AML  (flusso intermedio)
 
 Il flusso operativo tipico è il seguente:
 
