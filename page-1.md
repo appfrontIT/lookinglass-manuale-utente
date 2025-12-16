@@ -14,7 +14,7 @@ In this case, the system shows a blocking message such as:
 
 To continue, the user must correct the contact details or use the correct customer record.
 
-Some intermediaries are allowed to reuse email addresses or phone numbers. For these intermediaries, the quotation is not blocked, but a warning message is shown before issuance. The user must confirm the warning in order to proceed. \
+Some intermediaries are allowed to reuse email addresses or phone numbers. For these intermediaries, the quotation is not blocked, but a warning message is shown before issuance. The user must confirm the warning in order to proceed. System variable `quotation_email_telephone_white_list`.\
 The contact data check happens during the **Personal Data** step (Page 3) and may also be shown again on the **Summary** page for confirmation.
 
 ### 2. Digital Signature Buttons
@@ -23,4 +23,4 @@ When a document is sent for a digital signature, the signing link is always sent
 
 By default, intermediaries will only see the option to **send the email** to the customer. The buttons to open the signing page or copy the signing link are not shown to everyone.
 
-For some authorised intermediaries, additional buttons may be visible. These allow opening the signing page or copying the signing link. This access is limited to ensure the signing process remains secure.
+For some authorised intermediaries, additional buttons may be visible. These allow opening the signing page or copying the signing link. This access is limited to ensure the signing process remains secure. System variable `quotation_digital_signature_show_url_button_whitelist`.
