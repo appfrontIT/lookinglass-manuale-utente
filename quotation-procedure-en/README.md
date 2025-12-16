@@ -137,4 +137,5 @@ A signed copy of the policy declaration page (simplo) must be emailed within 60 
 Quotations can be modified depending on their status:
 
 * **Incomplete quotations** can be edited by locating them in the Quotations section and clicking the _Edit_ button.
-* **Issued quotations** cannot be modified. To make changes, use the _Duplicate_ function to create a new quotation based on the existing one.
+* **Issued quotations** cannot be modified. To make changes, use the _Duplicate_ function to create a new quotation based on the existing one.\
+  <br>
