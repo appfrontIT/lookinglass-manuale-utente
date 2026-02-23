@@ -20,6 +20,7 @@
 * [Appendice B Elenco funzionalità](appendice-b-elenco-funzionalita.md)
 * [Quotation procedure (EN)](quotation-procedure-en.md)
   * [Quotation Blockers & Validations](page-1.md)
+* [Come firmare un documento (piattaforma IDSign)](come-firmare-un-documento-piattaforma-idsign.md)
 * [Policy Management (EN)](policy-management-en.md)
 * [Sistema di Gestione dei Domini](sistema-di-gestione-dei-domini.md)
 * [AML / LCB-FT Screening & Gestione Segnalazioni](aml-lcb-ft-screening-and-gestione-segnalazioni.md)

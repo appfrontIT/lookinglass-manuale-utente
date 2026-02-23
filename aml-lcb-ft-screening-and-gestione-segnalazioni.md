@@ -20,13 +20,13 @@ I report sono accessibili da:
 **Menu → Segnalazioni AML**
 
 \
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (155).png>)
 
 
 
 *
 
-    <figure><img src=".gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (155) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Notifiche via e-mail
 

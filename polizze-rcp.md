@@ -122,7 +122,7 @@ Nel caso in cui il cliente sia interessato all'acquisto del preventivo emesso è
 
 Adesso nella pagina di riepilogo del preventivo si trovano alcuni nuovi pulsanti:
 
-![](<.gitbook/assets/image (1) (1) (1) (1) (1) (2).png>)
+![](<.gitbook/assets/image (1) (1) (1) (1) (1) (2) (1).png>)
 
 * **Stampa** è un menù a tendina per scaricare il PDF della proposta di contratto o della polizza.
 * **Go to Polizza** apre in una nuova scheda i dettagli della polizza.
@@ -155,7 +155,7 @@ Le note non saranno visibili sul PDF della proposta di contratto o della polizza
 
 ### Cancellare polizza
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>filtri RCP Titoli</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>filtri RCP Titoli</p></figcaption></figure>
 
 Per cancellare una polizza, segui questi passaggi:
 
@@ -169,7 +169,7 @@ Per rendere effettiva l'operazione di cancellazione, è necessario incassare il 
 Scorrendo verso il fondo della pagina dei dettagli della polizza, troverai il pulsante Stato dell'aggiornamento, che ti porterà alla schermata per incassare il titolo.
 
 In alternativa, si può accedere a questo pulsante anche dalla sezione **RCP Titoli** premendo il\
-pulsante **Aggiorna** <img src=".gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"> in corrispondenza della riga dedicata al titolo di cancellazione.
+pulsante **Aggiorna** <img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original"> in corrispondenza della riga dedicata al titolo di cancellazione.
 
 ### Sostituire polizza
 
@@ -188,7 +188,7 @@ Cliccando su questo pulsante, verrà generato un nuovo titolo, e al numero di po
 
 ## Note per l'amministratore del sistema
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 L'utente definito come "amministratore" in questa guida:
 

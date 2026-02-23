@@ -23,4 +23,20 @@ When a document is sent for a digital signature, the signing link is always sent
 
 By default, intermediaries will only see the option to **send the email** to the customer. The buttons to open the signing page or copy the signing link are not shown to everyone.
 
-For some authorised intermediaries, additional buttons may be visible. These allow opening the signing page or copying the signing link. This access is limited to ensure the signing process remains secure. System variable `quotation_digital_signature_show_url_button_whitelist`.
+For some authorised intermediaries, additional buttons may be visible. These allow opening the signing page or copying the signing link. This access is limited to ensure the signing process remains secure. System variable `quotation_digital_signature_show_url_button_whitelist`.<br>
+
+### 3. Vehicle Province and Residence Province
+
+When creating a quotation, the system verifies that the **vehicle province matches the customer’s residence province**.
+
+If they do not match, the quotation is blocked with the message:
+
+**“Province veicolo non combacia con provincia residenza”**\
+(Codice univoco: **NOMATCHPROVRES**)
+
+This control cannot be bypassed by most intermediaries. Only those in `quotation_prov_match_whitelist` , lookinglass helpdesk, and IPA can unlock the quotation after verification.
+
+
+
+
+
