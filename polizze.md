@@ -2,6 +2,28 @@
 description: In questo capitolo impareremo come utilizzare la pagina delle polizze.
 cover: .gitbook/assets/Immagine 2023-07-25 122256 (2).png
 coverY: 419.24642556770397
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Polizze
